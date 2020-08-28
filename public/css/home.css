@@ -1,0 +1,55 @@
+.ftco-section {
+    padding: 6em 0;
+    position: relative; }
+    @media (max-width: 767.98px) {
+      .ftco-section {
+        padding: 6em 0; } }
+  
+  .ftco-no-pt {
+    padding-top: 0 !important; }
+  
+  .ftco-no-pb {
+    padding-bottom: 0 !important; }
+    .heading-section h2 {
+    font-size: 50px;
+    font-weight: 700;
+    text-transform: uppercase; }
+    .heading-section h2 span {
+      font-weight: 700;
+      color: #00bd56; }
+    @media (max-width: 767.98px) {
+      .heading-section h2 {
+        font-size: 28px; } }
+  
+  .heading-section.heading-section-white .subheading {
+    color: rgba(255, 255, 255, 0.9); }
+  
+  .heading-section.heading-section-white h3 {
+    font-size: 40px;
+    color: #000000; }
+    .heading-section.heading-section-white h3 span {
+      color: #94bd00; }
+  
+  .heading-section.heading-section-white p {
+    color: #000000; }
+    align-self-stretch {
+    -ms-flex-item-align: stretch !important;
+    -ms-grid-row-align: stretch !important;
+    align-self: stretch !important; }
+    .py-3
+    .mb-4 {
+    padding-top: 1rem !important; }
+    .px-4 {
+    padding-right: 1.5rem !important; }
+    .d-flex {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important; }
+    .align-self-stretch {
+    -ms-flex-item-align: stretch !important;
+    -ms-grid-row-align: stretch !important;
+    align-self: stretch !important; }
+    .row-equal > div[class*='col-'] {
+      display: flex;
+    }
+    

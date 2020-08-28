@@ -1,0 +1,57 @@
+@media(max-width: 667px) {
+    .contentBox .h100{
+        position:relative;
+        
+    }
+  .about-grid{    
+        position:relative;
+    }
+}
+.about{
+    margin-top:10px;
+}
+.about h1 h3 p{
+    text-align:center;
+}
+.about h1{
+    letter-spacing: 12px;
+    margin-bottom: 15px;
+    font-size:18px;
+}
+.about h3{
+    color:#ff4f81;
+}
+.crl1{
+    background:#001f3f;
+    
+}
+.crl2{
+    background:#2dde98;
+}
+.crl3{
+    background:#8e43e7;
+}
+.about-grid{
+    text-align: center;
+    padding:30px;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all; 
+    -moz-transition: 0.5s all;
+    margin:10px 0px 10px 0px;
+}
+.about-grid h5{
+    color:#fff;
+}
+.about-grid img{
+    font-size: 50px;
+    color:#fff;
+    margin-bottom: 10px;
+}
+.about-grid img:hover{
+    color:rgb(19, 18, 18);
+}
+.about-grid:hover{
+    box-shadow:10px 15px 70px 10px rgba(0,0,0,0.75);
+    -webkit-box-shadow:2px 15px 70px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow:2px 15px 70px 2px rgba(0,0,0,0.75);
+}

@@ -1,0 +1,64 @@
+.bg{
+    background: url('../img/3.jpg') no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+#log{
+    padding:60px 40px;
+    margin-top:70px;
+    -webkit-box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
+    -moz-box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
+    box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
+}
+img{
+    width:150px;
+    margin:auto;
+    
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: 5px;
+    color:white;
+    text-align:center;
+    font-weight:border;
+    margin-top:20px;
+}
+label{
+    font-size: 1.1rem;
+    color:white;
+}
+ .btnD5{
+    background-color: #fc9004;
+    border-radius: 30px;
+    padding:10px 50px;
+}
+.btnD5:focus,
+.btnD5:hover{
+    border-color:black;
+    background-color:burlywood;
+    box-shadow:none;
+}
+.center{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.form-control{
+    background: transparent;
+    border: none;
+    border-bottom:2px solid rgba(255,255,255,.2);
+    height:50px;
+    border-radius: 20px;
+    background: rgba(0, 0, 0, .6);
+    color: #fff;
+    font-size:1.25rem;
+}
+.form-control:focus,
+.form-control:hover{
+    border:none;
+    border-bottom: 2px solid rgba(255,255,255,1);
+    box-shadow:none;
+}
+h1 {
+  text-shadow: 0 0 3px #FF0000;
+}
